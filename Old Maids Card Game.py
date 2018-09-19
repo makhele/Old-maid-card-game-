@@ -256,6 +256,6 @@ class OldMaidHand(shuffledDeck, cards):
 x = OldMaidHand(x=['Sabata Makhele', 'Puseletso Makhele', 'Boitumelo Sehlabaka', 'Daniel Makhele', 'Hlophekile Ngundle',
                    'Tseko Malawaneng'])
 x.play()
-
+ghfhgfghfgh
 print(time.time()-start_time,'seconds')
 print(x.cardsleftonDeck)
